@@ -1,5 +1,6 @@
-.vscode/
+# Enviromental variables and virtual environment
 env/
+.env
 
-**/__pycache__/
-**/migrations/
+# Configuration files
+.vscode/

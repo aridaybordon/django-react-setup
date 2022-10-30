@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind utilities;
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+  }
+}

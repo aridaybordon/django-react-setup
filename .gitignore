@@ -4,3 +4,4 @@ env/
 
 # Configuration files
 .vscode/
+node_modules/
